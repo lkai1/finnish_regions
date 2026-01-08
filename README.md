@@ -1,1 +1,1 @@
-Tämä muuntaa Suomen maakunnat ja kunnat csv muodosta json muotoon.
+Tämä muuntaa Suomen maakunnat ja kunnat csv muodosta javascript array muotoon.
